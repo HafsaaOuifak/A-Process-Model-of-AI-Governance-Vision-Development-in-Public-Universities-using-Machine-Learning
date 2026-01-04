@@ -111,6 +111,5 @@ conda install -c conda-forge pandas numpy scikit-learn joblib matplotlib openpyx
 
 <h2>Data privacy</h2>
 <p>
-  Do not upload sensitive institutional data. Use anonymised samples or
-  exclude raw data using <code>.gitignore</code>.
+  Data is provided upon request.
 </p>
